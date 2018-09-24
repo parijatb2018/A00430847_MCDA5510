@@ -1,0 +1,6 @@
+Sep 24, 2018 8:25:58 PM SimpleLogging writetoLogFile
+INFO: Total execution time: 2794 ms
+Sep 24, 2018 8:25:58 PM SimpleLogging writetoLogFile
+INFO: Total number of valid rows: 201075
+Sep 24, 2018 8:25:58 PM SimpleLogging writetoLogFile
+INFO: Total number of skipped rows: 81834
