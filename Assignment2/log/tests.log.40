@@ -1,0 +1,14 @@
+Oct 16, 2018 10:49:03 PM SimpleLogging writetoLogFile
+INFO: Connection Sucessful
+Oct 16, 2018 10:49:06 PM SimpleLogging writetoLogFile
+INFO: Testing Create Transaction Function
+Oct 16, 2018 10:49:28 PM SimpleLogging writetoLogFile
+INFO: Invalid expiryDate entered
+Oct 16, 2018 10:49:34 PM SimpleLogging writetoLogFile
+INFO: Invalid expiryDate entered
+Oct 16, 2018 10:49:47 PM SimpleLogging writetoLogFile
+INFO: Invalid expiryDate entered
+Oct 16, 2018 10:49:54 PM SimpleLogging writetoLogFile
+INFO: Invalid expiryDate entered
+Oct 16, 2018 11:08:31 PM SimpleLogging writetoLogFile
+INFO: java.util.NoSuchElementException

@@ -1,0 +1,4 @@
+Oct 16, 2018 9:11:33 PM SimpleLogging writetoLogFile
+INFO: Connection Sucessful
+Oct 16, 2018 11:08:24 PM SimpleLogging writetoLogFile
+INFO: java.util.NoSuchElementException

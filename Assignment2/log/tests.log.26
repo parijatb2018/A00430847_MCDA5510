@@ -1,0 +1,12 @@
+Oct 16, 2018 9:42:35 PM SimpleLogging writetoLogFile
+INFO: Connection Sucessful
+Oct 16, 2018 9:42:37 PM SimpleLogging writetoLogFile
+INFO: Testing Update Transaction Function
+Oct 16, 2018 9:42:56 PM SimpleLogging writetoLogFile
+INFO: Invalid card number entered
+Oct 16, 2018 9:43:11 PM SimpleLogging writetoLogFile
+INFO: Invalid card number entered
+Oct 16, 2018 9:43:22 PM SimpleLogging writetoLogFile
+INFO: record successfully updated
+Oct 16, 2018 11:08:28 PM SimpleLogging writetoLogFile
+INFO: java.util.NoSuchElementException

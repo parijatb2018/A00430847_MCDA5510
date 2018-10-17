@@ -1,0 +1,8 @@
+Oct 16, 2018 9:11:43 PM SimpleLogging writetoLogFile
+INFO: Connection Sucessful
+Oct 16, 2018 9:11:48 PM SimpleLogging writetoLogFile
+INFO: Testing Update Transaction Function
+Oct 16, 2018 9:12:10 PM SimpleLogging writetoLogFile
+INFO: java.sql.SQLSyntaxErrorException: Unknown column 'ExpDate' in 'field list'
+Oct 16, 2018 11:08:24 PM SimpleLogging writetoLogFile
+INFO: java.util.NoSuchElementException

@@ -1,0 +1,8 @@
+Oct 16, 2018 9:47:14 PM SimpleLogging writetoLogFile
+INFO: Connection Sucessful
+Oct 16, 2018 9:47:16 PM SimpleLogging writetoLogFile
+INFO: Testing Update Transaction Function
+Oct 16, 2018 9:47:24 PM SimpleLogging writetoLogFile
+INFO: record successfully updated
+Oct 16, 2018 11:08:29 PM SimpleLogging writetoLogFile
+INFO: java.util.NoSuchElementException
