@@ -1,6 +1,8 @@
 import java.sql.Connection;
 import java.util.Scanner;
 
+import com.dpenny.mcda5510.entity.Transaction;
+
 public class Assignment2 {
 
 	static SimpleLogging logger = new SimpleLogging();
@@ -15,6 +17,8 @@ public class Assignment2 {
 
 
 			while (true) {
+				
+				Transaction transaction = new Transaction();
 
 				System.out.println(
 						" \n Select 1 for creating a record \n Select2 for viewing a record \n Select 3 for deleting a record \n Select 4 for updating a record \n "
